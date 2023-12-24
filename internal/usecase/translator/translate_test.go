@@ -3,8 +3,8 @@ package translator_test
 import (
 	"testing"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase/translator"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase/translator"
 	"github.com/stretchr/testify/assert"
 )
 
