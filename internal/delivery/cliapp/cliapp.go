@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dewzzjr/galaxy-merchant-trading/internal/model"
-	"github.com/dewzzjr/galaxy-merchant-trading/internal/usecase"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase"
 	"github.com/urfave/cli/v2"
 )
 
