@@ -3,8 +3,8 @@ package cliapp
 import (
 	"io"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase"
 	"github.com/urfave/cli/v2"
 )
 
