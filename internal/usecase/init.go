@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase/query"
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase/translator"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase/query"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase/translator"
 )
 
 type Builder func(question string) (*query.Query, error)
