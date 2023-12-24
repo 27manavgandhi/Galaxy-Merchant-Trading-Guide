@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
-	"github.com/gandhimanav27/galaxy-merchant-trading/pkg/roman"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavagndhi/galaxy-merchant-trading/pkg/roman"
 )
 
 func (q *Query) String() string {
