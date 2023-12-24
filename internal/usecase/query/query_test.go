@@ -3,9 +3,9 @@ package query_test
 import (
 	"testing"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase/query"
-	"github.com/gandhimanav27/galaxy-merchant-trading/pkg/roman"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase/query"
+	"github.com/27manavgandhi/galaxy-merchant-trading/pkg/roman"
 	"github.com/stretchr/testify/assert"
 )
 
