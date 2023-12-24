@@ -3,8 +3,8 @@ package translator
 import (
 	"strings"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
-	"github.com/gandhimanav27/galaxy-merchant-trading/pkg/roman"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/pkg/roman"
 	"github.com/pkg/errors"
 )
 
