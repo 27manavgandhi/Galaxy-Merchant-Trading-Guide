@@ -1,7 +1,7 @@
 package translator
 
 import (
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
 	"github.com/pkg/errors"
 )
 
