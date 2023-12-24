@@ -1,6 +1,6 @@
 package query
 
-import "github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
+import "github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
 
 type Query struct {
 	Question      string
