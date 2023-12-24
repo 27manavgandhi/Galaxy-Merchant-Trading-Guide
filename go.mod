@@ -1,3 +1,5 @@
+module github.com/27manavgandhi/galaxy-merchant-trading
+
 go 1.18
 
 require (
