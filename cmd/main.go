@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/delivery/cliapp"
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/usecase"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/delivery/cliapp"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/usecase"
 )
 
 func main() {
