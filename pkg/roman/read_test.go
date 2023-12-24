@@ -3,7 +3,7 @@ package roman_test
 import (
 	"testing"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/pkg/roman"
+	"github.com/27manavgandhi/galaxy-merchant-trading/pkg/roman"
 )
 
 func Test_ReadToDecimal(t *testing.T) {
