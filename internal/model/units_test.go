@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/gandhimanav27/galaxy-merchant-trading/internal/model"
+	"github.com/27manavgandhi/galaxy-merchant-trading/internal/model"
 )
 
 func TestUnit_Valid(t *testing.T) {
